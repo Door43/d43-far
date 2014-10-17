@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[far:home|Door43 (far)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-far|d43-far repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-far/archive/master.zip|d43-far.zip]]
+
+**Recent Changes**
+{{changes>ns = far}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/far|Ethnologue data]]
+
